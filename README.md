@@ -40,36 +40,52 @@ AI Full Stack Developer with **5+ years** of experience building scalable, high-
 
 Currently working remotely at **Techwagger Solutions Pvt Ltd**, designing secure architectures, optimizing system performance, and delivering production-grade solutions across multiple domains.
 
-| | |
-|---|---|
-| **Education** | M.Tech |
-| **Experience** | 5+ Years |
-| **Role** | AI Full Stack Developer |
-| **Company** | Techwagger Solutions Pvt Ltd |
-| **Location** | Remote |
-| **Email** | [amit.chauhan@techwagger.com](mailto:amit.chauhan@techwagger.com) |
-| **Expertise** | MERN · NestJS · Next.js · AWS · Redis · RabbitMQ · System Design |
+<p>
+  <img src="https://img.shields.io/badge/Education-M.Tech-1F6FEB?style=flat-square" alt="Education" />
+  <img src="https://img.shields.io/badge/Experience-5%2B_Years-2EA043?style=flat-square" alt="Experience" />
+  <img src="https://img.shields.io/badge/Role-AI_Full_Stack_Developer-8957E5?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Company-Techwagger_Solutions-0969DA?style=flat-square" alt="Company" />
+  <img src="https://img.shields.io/badge/Location-Remote-656D76?style=flat-square" alt="Location" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Expertise-MERN_NestJS_Next.js-47A248?style=flat-square" alt="Expertise" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Queue-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+</p>
 
 ---
 
-## GitHub Stats
+## GitHub Analytics
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amit638824&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit638824&layout=compact&theme=graywhite&langs_count=8&hide_border=true" alt="Top Languages" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=amit638824&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit638824&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=amit638824&theme=graywhite&hide_border=true" alt="GitHub Streak" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit638824&layout=donut&theme=github_dark&langs_count=6&hide_border=false" alt="Languages Donut" />
+  <img height="190" src="https://streak-stats.demolab.com?user=amit638824&theme=github-dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit638824&theme=minimal&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit638824&theme=github-compact&hide_border=false&area=true" alt="Contribution Graph" />
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=amit638824&theme=onedark&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit638824&theme=react&hide_border=false&custom_title=Yearly%20Contribution%20Trend" alt="Yearly Trend" />
 </p>
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=amit638824&theme=discord&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amit638824/amit638824/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amit638824/amit638824/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/amit638824/amit638824/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
