@@ -1,3 +1,5 @@
+<!-- Section 1: Name & About -->
+
 <div align="center">
 
 # Hi 👋, I'm Amit Chauhan
@@ -9,13 +11,6 @@
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;AI+Integration+%26+Microservices;High-Performance+Real-Time+Systems" alt="Typing SVG" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit6388)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amit_official_2.0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -39,9 +34,30 @@ architectures, and delivering production-grade solutions across multiple domains
 - 💻 **Backend Expert** — Node.js, NestJS, Express.js, PostgreSQL, Redis, RabbitMQ
 - ⚡ Passionate about solving real-world problems with clean, scalable code
 - 🌍 **Remote** @ Techwagger Solutions Pvt Ltd
-- 📫 **Email:** amit.dev@gmail.com
+- 📫 **Email:** amit.chauhan@techwagger.com
 
 ---
+
+<!-- Section 2: Social Media -->
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amit6388-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit6388)
+[![Instagram](https://img.shields.io/badge/Instagram-amit__official__2.0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amit_official_2.0)
+[![Email](https://img.shields.io/badge/Email-amit.chauhan@techwagger.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit.chauhan@techwagger.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+<br/><br/>
+
+**Let's build something amazing together! 🚀**
+
+</div>
+
+---
+
+<!-- Section 3: Tech Stack -->
 
 ## 🛠 Tech Stack
 
@@ -81,7 +97,8 @@ architectures, and delivering production-grade solutions across multiple domains
 ### AI / ML & Architecture
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI%2FML-Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-1E1E1E?style=for-the-badge&logo=architecture&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-6C63FF?style=for-the-badge&logo=serverfault&logoColor=white)
 
@@ -120,22 +137,6 @@ architectures, and delivering production-grade solutions across multiple domains
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=amit638824&theme=discord&no-frame=true&column=4" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amit6388-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit6388)
-[![Instagram](https://img.shields.io/badge/Instagram-amit__official__2.0-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amit_official_2.0)
-[![Gmail](https://img.shields.io/badge/Gmail-amit.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amit.dev@gmail.com)
-
-<br/><br/>
-
-**Let's build something amazing together! 🚀**
 
 </div>
 
