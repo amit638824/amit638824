@@ -57,36 +57,4 @@ Currently working remotely at **Techwagger Solutions Pvt Ltd**, designing secure
 
 ---
 
-## GitHub Analytics
-
-<p>
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=amit638824&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit638824&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
-</p>
-
-<p>
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit638824&layout=donut&theme=github_dark&langs_count=6&hide_border=false" alt="Languages Donut" />
-  <img height="190" src="https://streak-stats.demolab.com?user=amit638824&theme=github-dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit638824&theme=github-compact&hide_border=false&area=true" alt="Contribution Graph" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit638824&theme=react&hide_border=false&custom_title=Yearly%20Contribution%20Trend" alt="Yearly Trend" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=amit638824&theme=discord&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amit638824/amit638824/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amit638824/amit638824/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/amit638824/amit638824/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ⭐️ **[amit638824](https://github.com/amit638824)**
